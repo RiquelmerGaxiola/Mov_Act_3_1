@@ -1,22 +1,19 @@
 [
-   {
-      "key":1,
+   {      
       "name":"Andree",
       "hobby":"Reading",
       "age":25,
       "phone":6679873894,
       "address":"Pedro Infante #314"
    },
-   {
-      "key":2,
+   {      
       "name":"Kevin",
       "hobby":"Gaming",
       "age":21,
       "phone":6539342034,
       "address":"Primavera #33"
    },
-   {
-      "key":3,
+   {      
       "name":"Carlo",
       "hobby":"Gaming",
       "age":22,
